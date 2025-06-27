@@ -4,6 +4,8 @@ import java.awt.event.ActionListener;
 import java.util.ArrayList;
 import java.util.Collections;
 
+//Этот класс не нужен
+
 public class game extends JFrame {
     private final int size = 4;
     private JButton[][] button = new JButton[size][size];
